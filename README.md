@@ -1,13 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mark Slater</h1>
-<h3 align="center">.NET, Angular</h3>
+<h1 align="center"> </h1>
+<h3 align="center">C#, .NET, React, Angular, Python /h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markslater8&label=Profile%20views&color=0e75b6&style=flat" alt="markslater8" /> </p>
 
-- 🌱 I’m currently working **.NET, Angular**
-
-- 💬 Ask me about **.NET, Angular**
-
-- 📫 How to reach me **mark.slater8dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
